@@ -5,6 +5,7 @@
 I’m passionate about **Data Analysis and Data Science**.  
 I seek to continuously develop and enhance my skills to build a distinguished career.  
 
+- 🎓 Currently pursuing my **Master’s degree in Data Analytics**.
 - 🔭 Currently developing my skills and looking for my first job.  
 - 🌱 Completed learning **Excel, Advanced Excel, Python, Power BI, SQL, Tableau**.  
 - 👯 Open to collaborating on projects where I can contribute and learn.  
