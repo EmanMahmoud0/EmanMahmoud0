@@ -25,7 +25,6 @@ I seek to continuously develop and enhance my skills to build a distinguished ca
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 
 ---
-
 ### 📊 GitHub Stats
 
 [![Eman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanMahmoud&show_icons=true&theme=radical)](https://github.com/EmanMahmoud)
