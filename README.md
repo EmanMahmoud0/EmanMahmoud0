@@ -26,5 +26,6 @@ I seek to continuously develop and enhance my skills to build a distinguished ca
 
 ---
 
-### 📊 GitHub Stats  
-![Eman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanMahmoud0&show_icons=true&theme=radical)  
+### 📊 GitHub Stats
+
+[![Eman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanMahmoud&show_icons=true&theme=radical)](https://github.com/EmanMahmoud)
